@@ -1,1 +1,1 @@
-Updated README for collaboration practice.
+This project is a Git learning project.
